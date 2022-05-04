@@ -1,0 +1,41 @@
+_repo: Life-of-Haydn_67827
+_version: 0.0.1
+alternative_title: Haydn. English
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Louis
+    - Nohl, Karl Friedrich Ludwig
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ludwig_Nohl
+    - https://en.wikipedia.org/wiki/Ludwig_Nohl
+description: ''
+gutenberg_issued: '2022-04-14'
+identifiers:
+  gutenberg: '67827'
+  lccn: '06003712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biographies of Musicians
+subjects:
+- !lcc 'ML'
+- !lcsh 'Haydn, Joseph, 1732-1809'
+- GITenberg
+title: Life of Haydn
+url: http://www.gutenberg.org/ebooks/67827
