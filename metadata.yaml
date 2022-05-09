@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 67827-h/images/cover.jpg
 creator:
   author:
     agent_name: Nohl, Ludwig
@@ -24,6 +27,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ludwig_Nohl
     - https://en.wikipedia.org/wiki/Ludwig_Nohl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67827#Life-of-Haydn
 gutenberg_issued: '2022-04-14'
 identifiers:
   gutenberg: '67827'
